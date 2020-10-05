@@ -1,0 +1,62 @@
+.topnav{
+    background-color:white;
+    overflow: hidden;
+    padding: 4px;
+
+}
+.list li{
+    list-style: none;
+    display: inline;
+    color: #f2f2f2;
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+    text-transform: capitalize;
+    float: right;
+    
+}
+.topnav,.list li{
+    padding: 4px;
+}
+
+.headtag{
+    text-align: center;
+}
+.months li{
+    list-style: none;
+    display: inline;
+    color: #f2f2f2;
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+    text-transform: capitalize;
+    padding: 26px;
+    overflow: hidden;
+    float: left;
+    
+}
+.txt{
+    text-align: center;
+    text-overflow: clip;
+    text-emphasis: none;
+}
+.col-md-3 mx-6 mb-2{
+    /* Rectangle 17 */
+
+position: absolute;
+left: 6.25%;
+right: 50.78%;
+top: 24.65%;
+bottom: 63.4%;
+
+background: url(ecxunilag_5___Bv4E8RHniZr___.jpg), #C4C4C4;
+border-radius: 10px;
+height: 279.738037109375px;
+width: 618.814453125px;
+left: 90px;
+top: 577px;
+border-radius: 10px;
+
+}
+
+
