@@ -1,2 +1,2 @@
 # ecx
-https://goldennheart.github.io/ecx/Ecx/gallery.html
+https://goldennheart.github.io/ecx/Ecx/gallerys.html
